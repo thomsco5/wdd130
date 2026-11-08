@@ -2,17 +2,14 @@ nav {
     background-color: #eee;
     padding: 0;
 }
-
 nav a {
     display: block;
     color:#000;
     padding: 0;
 }
-
 main {
     max-width: 840px;
 }
-
 h1 {
     color: #333;
 }
@@ -25,12 +22,10 @@ aside {
     color: #333;
     text-align: center; 
 }
-
 aside img {
     width: 200px;
     height: auto;
 }
-
 main img {
     width: 150px;
     height: auto;
@@ -38,11 +33,9 @@ main img {
     padding: 0;
     box-shadow: #eee;
 }
-
 p {
     padding: 0;
 }
-
 footer {
     margin-top: 15px;
     border-top: 1px solid #000;
