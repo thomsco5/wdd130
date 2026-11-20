@@ -51,7 +51,7 @@ h1 {
 .hero article {
     position: absolute;
     bottom: 20px;
-    background-color: var(--secondary-color);
+    background-color: var(--accent2-color);
     opacity: 0.9;
     left: 20px;
     right: 20px;
