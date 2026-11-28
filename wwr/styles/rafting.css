@@ -50,6 +50,7 @@ nav a {
 }
 .socialmedia a {
     text-decoration: none;
+    padding: 0;
 }
 .hero {
     position: relative;
@@ -124,9 +125,6 @@ footer {
 .socialmedia {
     display: flex;
     gap: 10px;
-}
-.socialmedia a {
-    padding: 0;
 }
 .socialmedia img {
     width: 30px;
